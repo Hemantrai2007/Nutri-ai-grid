@@ -1,0 +1,7 @@
+{
+  "name": "Nutri-AI Grid",
+  "description": "The Delhi-First contextual nutrition guide for students and professionals. Analyze your meals, get hyper-local swaps, and track your Health-Shift Score.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
